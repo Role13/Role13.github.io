@@ -52,3 +52,11 @@ p {
     font-size: 20px;
 
 }
+
+.subtitulo1 {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+    color: #1C548C;
+
+}
